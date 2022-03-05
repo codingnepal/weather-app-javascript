@@ -11,7 +11,7 @@ In this app, you can get the weather details of a particular city by entering th
  
 ## Usage
 
-Paste your API key to the appid parameter of the given URLs. These URLs are in line.no 27 & 33. You can get an API key from [here](https://openweathermap.org/api) for free and view my [blog](https://www.codingnepalweb.com/build-weather-app-html-javascript/) for detailed information.
+Paste your API key to the appid parameter of the given URLs. These URLs are in line.no 27 & 33 of script.js file. You can get an API key from [here](https://openweathermap.org/api) for free and view my [blog](https://www.codingnepalweb.com/build-weather-app-html-javascript/) for detailed information.
 
 ```javascript
 api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=your_api_key`;
