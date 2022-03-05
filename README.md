@@ -3,9 +3,9 @@
 
 In this app, you can get the weather details of a particular city by entering the city name. You can also get your current location weather details by clicking on the "Get Device Location" button. You'll get many weather details including temperature in celsius, weather conditions, location, feels like, and humidity.
  
- [Live Demo of this Todo](https://codingnepalweb.com/demos/weather-app-in-javascript/)
+ [View Live Demo](https://codingnepalweb.com/demos/weather-app-in-javascript/)
  
- [Watch video on YouTube](https://youtu.be/c1r-NqYkFPc)
+ [Watch it on YouTube](https://youtu.be/c1r-NqYkFPc)
 
 ## Screenshots
 
